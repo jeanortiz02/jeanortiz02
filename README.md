@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hola, soy Jean Carlos Ortiz
 
-<!--
-**jeanortiz02/jeanortiz02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy un desarrollador autodidacta con más de tres años de experiencia en el sector IT, especializado en soporte técnico y diseño gráfico. Actualmente, curso Ingeniería en Software en UNICARIBE, fortaleciendo mis habilidades en desarrollo web y backend. Mi pasión por la tecnología me ha permitido dominar tecnologías como HTML5, CSS, JavaScript, React, TypeScript, Node.js y bases de datos SQL, MongoDB y Postgree. Me destaco por mi capacidad de aprendizaje continuo, resolución de problemas y enfoque en la eficiencia de los sistemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack Tecnológico
+
+### 📜 Lenguajes:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 📚 Frameworks y Librerías:
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🔧 Backend y Bases de Datos:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Herramientas:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+![Jean Carlos Ortiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanortiz02&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanortiz02&layout=compact&theme=radical)
+
+---
+
+## 🎓 Educación
+- 📚 **Ingeniería en Software** – UNICARIBE (Cursando)
+- 🏫 **Administración de Redes** – ITSC (2018 - 2022)
+- 📖 **Cursos de especialización** en Udemy:
+  - JavaScript
+  - React: De cero a experto
+  - React con TypeScript
+  - Git + GitHub
+  - Figma UI/UX Avanzado
+  - SQL, PostgreSQL
+  - Node.js
+
+---
+
+## 🌟 Proyectos Destacados
+
+### 🔹 [Calculador de Propinas](https://github.com/jeanortiz02/calculador-propinas)
+Sistema para restaurantes que calcula el total a pagar según el pedido, el subtotal y la propina.
+**Tech:** JavaScript (TypeScript), TailwindCSS, CSS.
+
+### 🔹 [Cotizador de Criptomonedas](https://github.com/jeanortiz02/cripto-search-typescript)
+App que permite cotizar criptomonedas en diferentes monedas según la preferencia del usuario.
+**Tech:** React (TypeScript), Zod, Zustand.
+
+### 🔹 [Administrador de Productos - PERN](https://github.com/jeanortiz02/administrador-de-productos)
+Sistema de gestión de productos con inventario, validaciones y autenticación.
+**Tech:** React (TypeScript), Node.js, Express, PostgreSQL, Axios, Sequelize, Jest, Swagger.
+
+### 🔹 [Administrador de Proyectos](https://github.com/jeanortiz02/uptask-mern)
+Plataforma para gestión colaborativa de proyectos con autenticación JWT y gestión de tareas.
+**Tech:** React (TypeScript), TailwindCSS, Express, MongoDB, JWT, Nodemailer, React Query.
+
+### 🔹 [Quiosco Next.js](https://github.com/jeanortiz02/quiosco-next)
+App de gestión de un quiosco con administración de productos, manejo de pedidos e inventario.
+**Tech:** Next.js (TypeScript), Prisma, TailwindCSS, Zod, Router.
+
+---
+
+## 📫 Contacto
+📧 jeancarlosortizperez02@gmail.com  
+🌐 [Portafolio Web](#) | [GitHub](https://github.com/jeanortiz02) | [Behance](https://www.behance.net/jeancaortizp)
