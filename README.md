@@ -33,8 +33,9 @@ Soy un desarrollador autodidacta con más de tres años de experiencia en el sec
 ---
 
 ## 📊 Estadísticas de GitHub
-![Jean Carlos Ortiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanortiz02&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanortiz02&layout=compact&theme=radical)
+![Jean Carlos Ortiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanortiz02&show_icons=true&hide=prs,issues,contribs&theme=radical)
+![Jean Carlos Ortiz's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=jeanortiz02&theme=radical)
 
 ---
 
