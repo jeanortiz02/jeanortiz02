@@ -50,6 +50,7 @@ Soy un desarrollador autodidacta con más de tres años de experiencia en el sec
   - Figma UI/UX Avanzado
   - SQL, PostgreSQL
   - Node.js
+  - C#
 
 ---
 
