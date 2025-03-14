@@ -58,6 +58,7 @@ Soy un desarrollador autodidacta con más de tres años de experiencia en el sec
   - SQL, PostgreSQL
   - Node.js
   - C#
+  - SQL Server
 
 ---
 
