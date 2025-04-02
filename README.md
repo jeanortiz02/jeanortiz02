@@ -87,5 +87,4 @@ App de gestión de un quiosco con administración de productos, manejo de pedido
 ---
 
 ## 📫 Contacto
-📧 jeancarlosortizperez02@gmail.com  
-[Behance](https://www.behance.net/jeancaortizp)
+📧 jeancarlosortizperez02@gmail.com | [Behance](https://www.behance.net/jeancaortizp)
