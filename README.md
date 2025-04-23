@@ -64,25 +64,27 @@ Soy un desarrollador autodidacta con más de tres años de experiencia en el sec
 
 ## 🌟 Proyectos Destacados
 
-### 🔹 [Calculador de Propinas](https://github.com/jeanortiz02/calculador-propinas)
-Sistema para restaurantes que calcula el total a pagar según el pedido, el subtotal y la propina.
-**Tech:** JavaScript (TypeScript), TailwindCSS, CSS.
-
-### 🔹 [Cotizador de Criptomonedas](https://github.com/jeanortiz02/cripto-search-typescript)
-App que permite cotizar criptomonedas en diferentes monedas según la preferencia del usuario.
-**Tech:** React (TypeScript), Zod, Zustand.
+### 🔹 [Administrador de Proyectos](https://github.com/jeanortiz02/uptask-mern)
+Plataforma para gestión colaborativa de proyectos con autenticación JWT y gestión de tareas.
+**Tech:** React (TypeScript), TailwindCSS, Express, MongoDB, JWT, Nodemailer, React Query.
 
 ### 🔹 [Administrador de Productos - PERN](https://github.com/jeanortiz02/administrador-de-productos)
 Sistema de gestión de productos con inventario, validaciones y autenticación.
 **Tech:** React (TypeScript), Node.js, Express, PostgreSQL, Axios, Sequelize, Jest, Swagger.
 
-### 🔹 [Administrador de Proyectos](https://github.com/jeanortiz02/uptask-mern)
-Plataforma para gestión colaborativa de proyectos con autenticación JWT y gestión de tareas.
-**Tech:** React (TypeScript), TailwindCSS, Express, MongoDB, JWT, Nodemailer, React Query.
-
 ### 🔹 [Quiosco Next.js](https://github.com/jeanortiz02/quiosco-next)
 App de gestión de un quiosco con administración de productos, manejo de pedidos e inventario.
 **Tech:** Next.js (TypeScript), Prisma, TailwindCSS, Zod, Router.
+
+### 🔹 [Cotizador de Criptomonedas](https://github.com/jeanortiz02/cripto-search-typescript)
+App que permite cotizar criptomonedas en diferentes monedas según la preferencia del usuario.
+**Tech:** React (TypeScript), Zod, Zustand.
+
+### 🔹 [Calculador de Propinas](https://github.com/jeanortiz02/calculador-propinas)
+Sistema para restaurantes que calcula el total a pagar según el pedido, el subtotal y la propina.
+**Tech:** JavaScript (TypeScript), TailwindCSS, CSS.
+
+
 
 ---
 
