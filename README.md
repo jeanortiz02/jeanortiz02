@@ -70,7 +70,7 @@ Mi meta es convertirme en un desarrollador integral que pueda crear soluciones p
 ## 🌟 Proyectos Destacados
 
 ### 🔹 [E-coomerce - TesloShop](https://github.com/jeanortiz02/teslo-shop)
-Tienda en línea con con gestión de inventario, pago con paypal, gestor de órdenes y adminitración de roles de usuarios.
+Tienda en línea con gestión de inventario, pago con paypal, gestor de órdenes y administración de roles de usuarios.
 **Tech:** Next.js, Zustand, React Hook Form, Next Auth, TailwindCSS, PostgreSQL, Zod, Prisma.
 
 ### 🔹 [Administrador de Proyectos](https://github.com/jeanortiz02/uptask-mern)
