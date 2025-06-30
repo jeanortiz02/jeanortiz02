@@ -69,6 +69,10 @@ Mi meta es convertirme en un desarrollador integral que pueda crear soluciones p
 
 ## 🌟 Proyectos Destacados
 
+### 🔹 [E-coomerce - TesloShop](https://github.com/jeanortiz02/teslo-shop)
+Tienda en línea con con gestión de inventario, pago con paypal, gestor de órdenes y adminitración de roles de usuarios.
+**Tech:** Next.js, Zustand, React Hook Form, Next Auth, TailwindCSS, PostgreSQL, Zod, Prisma.
+
 ### 🔹 [Administrador de Proyectos](https://github.com/jeanortiz02/uptask-mern)
 Plataforma para gestión colaborativa de proyectos con autenticación JWT y gestión de tareas.
 **Tech:** React (TypeScript), TailwindCSS, Express, MongoDB, JWT, Nodemailer, React Query.
@@ -84,10 +88,6 @@ App de gestión de un quiosco con administración de productos, manejo de pedido
 ### 🔹 [Cotizador de Criptomonedas](https://github.com/jeanortiz02/cripto-search-typescript)
 App que permite cotizar criptomonedas en diferentes monedas según la preferencia del usuario.
 **Tech:** React (TypeScript), Zod, Zustand.
-
-### 🔹 [Calculador de Propinas](https://github.com/jeanortiz02/calculador-propinas)
-Sistema para restaurantes que calcula el total a pagar según el pedido, el subtotal y la propina.
-**Tech:** JavaScript (TypeScript), TailwindCSS, CSS.
 
 
 
