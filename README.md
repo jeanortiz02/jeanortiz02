@@ -66,6 +66,7 @@ Mi meta es convertirme en un desarrollador integral que pueda crear soluciones p
   - C#
   - SQL Server
   - ASP.NET WebApi Core 9
+  - Angular 19
 
 ---
 
