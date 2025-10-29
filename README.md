@@ -1,7 +1,7 @@
 # 👋 Hola, soy Jean Carlos Ortiz
 Soy estudiante de Ingeniería en Software en UNICARIBE y me apasiona todo lo relacionado con el desarrollo de software. Me gusta aprender cosas nuevas y aplicar mis conocimientos en proyectos que aporten valor real.
 
-Tengo experiencia en proyectos usando tecnologías como React, JavaScript, TypeScript, C#, Node.js, Next.js, ASP.NET Core, HTML, CSS, Tailwind, Bootstrap, SQL, PostgreSQL y MongoDB. También manejo herramientas como GitHub y Docker, lo que me ha ayudado a trabajar mejor en equipo y adaptarme a entornos modernos. Además, cuento con más de 3 años de experiencia en infraestructura de redes y más de 5 años en diseño gráfico, lo que me da una visión más completa a la hora de crear soluciones.
+Tengo experiencia en proyectos personales usando tecnologías como React, JavaScript, TypeScript, C#, Node.js, Next.js, ASP.NET Core, HTML, CSS, Tailwind, Bootstrap, SQL, PostgreSQL y MongoDB. También manejo herramientas como GitHub y Docker, lo que me ha ayudado a trabajar mejor en equipo y adaptarme a entornos modernos. Además, cuento con más de 3 años de experiencia en infraestructura de redes y más de 5 años en diseño gráfico, lo que me da una visión más completa a la hora de crear soluciones.
 
 Mi meta es convertirme en un desarrollador integral que pueda crear soluciones prácticas y eficientes. Me considero una persona proactiva, responsable y con buena disposición para trabajar en equipo y seguir creciendo en este campo.
 
