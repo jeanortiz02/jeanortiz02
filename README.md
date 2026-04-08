@@ -1,112 +1,105 @@
-# 👋 Hola, soy Jean Carlos Ortiz
+# Jean Carlos Ortiz
 
-Desarrollador Web | Diseñador Gráfico | Soporte Técnico  
-📍 Santo Domingo, República Dominicana  
+Frontend Developer enfocado en construir interfaces modernas, funcionales y bien pensadas.
 
-Web Comercial: https://jeancarlosortiz.com/  
-Portafolio Dev: https://dev.jeancarlosortiz.com/
-
-Soy estudiante de Ingeniería en Software con experiencia en desarrollo web, infraestructura tecnológica y diseño gráfico. Me especializo en crear soluciones prácticas, escalables y bien estructuradas, combinando tecnología y diseño.
+Actualmente estoy en proceso de transición hacia un rol remoto como frontend developer, trabajando con tecnologías como React, Next.js y TypeScript, mientras sigo fortaleciendo mis habilidades con proyectos reales.
 
 ---
 
-## Sobre mí
+## 🚀 Sobre mí
 
-- Experiencia en desarrollo fullstack con tecnologías modernas
-- Más de 3 años en soporte técnico e infraestructura IT
-- Más de 5 años en diseño gráfico profesional
-- Enfocado en construir soluciones reales y de alto impacto
-- Trabajo en equipo, adaptabilidad y aprendizaje continuo
+Soy estudiante de Ingeniería en Software con experiencia en desarrollo web y diseño de interfaces. Me gusta trabajar en proyectos donde pueda construir soluciones que no solo funcionen, sino que también se vean bien y tengan una buena experiencia de usuario.
 
----
+He trabajado en aplicaciones que incluyen autenticación, manejo de roles, consumo de APIs y gestión de estado, lo que me ha permitido entender mejor cómo construir aplicaciones completas desde el frontend.
 
-## 🛠️ Stack Tecnológico
-
-### Lenguajes
-JavaScript · TypeScript · C# · SQL · HTML · CSS
-
-### Frontend
-React · Next.js · Angular · TailwindCSS · Zustand · Zod
-
-### Backend
-Node.js · Express · ASP.NET Core · Prisma  
-PostgreSQL · MongoDB · SQL Server · REST APIs · JWT
-
-### Herramientas
-Git · GitHub · Docker · Figma · Adobe Photoshop · Illustrator  
-Postman · Visual Studio · VS Code
-
-### Infraestructura & Redes
-Windows Server · Redes IP · MikroTik · Cisco · Aruba  
-Microsoft 365 · 3CX · Administración de sistemas
+También tengo experiencia en diseño, lo que me ayuda a cuidar mucho los detalles visuales en cada proyecto.
 
 ---
 
-## Experiencia
+## 🛠️ Tecnologías que uso
 
-### Técnico en Soporte IT — IIBI (2021 - Actualidad)
-- Administración de infraestructura tecnológica
-- Gestión de redes, inventario y sistemas
-- Digitalización de procesos internos
-- Administración de plataformas web institucionales
+**Frontend**
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Zustand
+- Zod
 
-### Diseñador Gráfico — Iglesia Adventista (2023 - Presente)
-- Diseño para redes sociales y campañas
-- Creación de identidad visual
-- Trabajo colaborativo con equipos internacionales
+**Backend (cuando lo necesito)**
+- Node.js
+- Express
+- Prisma
+- PostgreSQL
+- MongoDB
 
-### Diseñador Gráfico — Unión Adventista Española (2026 - Presente)
-- Producción mensual de contenido digital
-- Aplicación de lineamientos gráficos institucionales
-
----
-
-## Proyectos Destacados
-
-### 🔹 [Teslo Shop](https://github.com/jeanortiz02/teslo-shop)
-E-commerce completo con autenticación, pagos y gestión de usuarios  
-**Tech:** Next.js · Prisma · PostgreSQL · NextAuth · Tailwind · Zod
+**Herramientas**
+- Git & GitHub
+- Figma
+- Docker
 
 ---
 
-### 🔹 [Project Manager](https://github.com/jeanortiz02/uptask-mern)
-Gestión de tareas colaborativas con autenticación y roles  
-**Tech:** React · Node.js · Express · MongoDB · JWT
+## 💻 Proyectos destacados
+
+### 🛒 Teslo Shop
+Aplicación e-commerce con autenticación, roles de usuario y pagos integrados.
+
+- Login con NextAuth
+- Control de roles (admin / usuario)
+- Integración de pagos con PayPal
+- Panel administrativo
+
+🔗 Demo: https://www.youtube.com/watch?v=9rvSCjKEbZk  
+🔗 Código: https://github.com/jeanortiz02/teslo-shop  
 
 ---
 
-### 🔹 [Administrador de Productos](https://github.com/jeanortiz02/administrador-de-productos)
-Sistema de inventario con API documentada  
-**Tech:** React · Node · PostgreSQL · Swagger · JWT
+### 📋 Project Manager
+Aplicación para gestión de proyectos y tareas con autenticación.
+
+- Autenticación con JWT
+- Permisos por usuario
+- CRUD de tareas y proyectos
+
+🔗 Demo: https://www.youtube.com/watch?v=clFrJqN2L3M  
+🔗 Código: https://github.com/jeanortiz02/uptask-mern  
 
 ---
 
-### 🔹 [Quiosco de Pedidos](https://github.com/jeanortiz02/quiosco-next)
-Sistema de pedidos con vista de cocina e inventario  
-**Tech:** Next.js · TypeScript · Prisma · Tailwind
+### 🍔 Quiosco de Pedidos
+Sistema de pedidos con vista de cocina y control de órdenes.
+
+- Flujo de pedidos en tiempo real
+- Interfaz optimizada para operación
+- Manejo de inventario
+
+🔗 Demo: https://www.youtube.com/watch?v=42nZ3We3ftU  
+🔗 Código: https://github.com/jeanortiz02/quiosco-next  
 
 ---
 
-### 🔹 [Cotizador de Criptomonedas](https://github.com/jeanortiz02/cripto-search-typescript)
-Consulta de precios en tiempo real  
-**Tech:** React · TypeScript · Zustand · Zod
+## 🌐 Enlaces
+
+- Portafolio: https://dev.jeancarlosortiz.com/
+- Web comercial: https://jeancarlosortiz.com
+- LinkedIn: https://www.linkedin.com/in/jean-carlos-ortiz-636119187/
+- GitHub: https://github.com/jeanortiz02
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanortiz02&layout=compact&theme=radical)
+## 🎯 En qué estoy ahora
+
+Actualmente estoy enfocado en:
+
+- Conseguir una oportunidad como Frontend Developer remoto  
+- Seguir mejorando en React, Next.js y arquitectura frontend  
+- Construir proyectos más sólidos y escalables  
 
 ---
 
-## Educación
+## 🤝 Contacto
 
-- Ingeniería en Software — UNICARIBE (en curso)
-- Técnico en Redes — ITSC (CUM LAUDE)
+Si te interesa trabajar conmigo o quieres colaborar en algún proyecto, puedes escribirme:
 
----
-
-## Contacto
-
-📧 jeancarlosortizperez02@gmail.com  
-🌐 Web Comercial: https://jeancarlosortiz.com/  
-🚀 Portafolio Dev: https://dev.jeancarlosortiz.com/  
-🎨 Behance: https://www.behance.net/jeancaortizp
+📧 hello@jeancarlosortiz.com
