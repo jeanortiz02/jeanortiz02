@@ -152,13 +152,13 @@ Sistema para gestionar pedidos, órdenes y el flujo de trabajo de una cocina.
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=jeanortiz02&show_icons=true&hide_border=true&theme=transparent&locale=es"
+    width="49%"
+    src="./assets/github-stats.svg"
     alt="Estadísticas de GitHub de Jean Carlos Ortiz"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanortiz02&layout=compact&hide_border=true&theme=transparent&langs_count=6"
+    width="41%"
+    src="./assets/top-languages.svg"
     alt="Lenguajes más utilizados por Jean Carlos Ortiz"
   />
 </p>
