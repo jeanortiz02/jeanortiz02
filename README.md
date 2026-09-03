@@ -1,18 +1,3 @@
-<h1 align="center">Jean Carlos Ortiz</h1>
-
-<p align="center">
-  <strong>Full-Stack Developer</strong> · Next.js · React · TypeScript · ASP.NET Core · IT Support
-</p>
-
-<p align="center">
-  <a href="https://dev.jeancarlosortiz.com/">Portafolio</a> ·
-  <a href="https://github.com/jeanortiz02">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/jean-carlos-ortiz-636119187/">LinkedIn</a> ·
-  <a href="mailto:hello@jeancarlosortiz.com">Email</a>
-</p>
-
----
-
 ## Sobre mí
 
 Soy estudiante de Ingeniería en Software y desarrollador web Full-Stack, especializado en el ecosistema JavaScript/TypeScript. Construyo aplicaciones modernas con **Next.js, React, TypeScript, Node.js** y bases de datos relacionales y NoSQL.
